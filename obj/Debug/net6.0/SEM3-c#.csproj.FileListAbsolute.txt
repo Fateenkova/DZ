@@ -1,0 +1,15 @@
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\bin\Debug\net6.0\SEM3-c#.exe
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\bin\Debug\net6.0\SEM3-c#.deps.json
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\bin\Debug\net6.0\SEM3-c#.runtimeconfig.json
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\bin\Debug\net6.0\SEM3-c#.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\bin\Debug\net6.0\SEM3-c#.pdb
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\SEM3-c#.csproj.AssemblyReference.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\SEM3-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\SEM3-c#.AssemblyInfoInputs.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\SEM3-c#.AssemblyInfo.cs
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\SEM3-c#.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\SEM3-c#.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\refint\SEM3-c#.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\SEM3-c#.pdb
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\SEM3-c#.genruntimeconfig.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\SEM3-c#\obj\Debug\net6.0\ref\SEM3-c#.dll
